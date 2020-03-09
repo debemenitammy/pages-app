@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ec96c45-0500-4ccc-99d7-f292d086effc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sampleApp/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/sampleApp/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sampleApp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/sampleApp/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sampleApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/sampleApp/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sampleProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/sampleProject/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +56,10 @@
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state x="278" y="60" width="800" height="680" key="#Inspections/0.30.1366.738@0.30.1366.738" timestamp="1583676414699" />
+    <state x="438" y="204" width="479" height="392" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583758632655">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="438" y="204" width="479" height="392" key="#com.intellij.fileTypes.FileTypeChooser/0.30.1366.738@0.30.1366.738" timestamp="1583758632655" />
     <state x="466" y="157" width="424" height="487" key="FileChooserDialogImpl" timestamp="1583639991667">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
